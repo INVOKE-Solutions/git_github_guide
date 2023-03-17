@@ -1,5 +1,5 @@
 def full_information(name, age):
-  full_info = f"My name is {name} and I {age} years old"
+  full_info = f"My name is {name} and I am {age} years old"
   if age < 12:
     school_info = "I am primary school student"
   elif 12 < age < 17:
@@ -7,7 +7,7 @@ def full_information(name, age):
   else:
     school_info = "I am a college student"
     
-   return full_info + " " + school_info
+  return full_info + " " + school_info
     
 name = input("What is your name?") 
 age = input("How old are you?") 

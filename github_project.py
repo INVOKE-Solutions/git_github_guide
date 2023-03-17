@@ -11,4 +11,4 @@ def full_information(name, age):
     
 name = input("What is your name?") 
 age = input("How old are you?") 
-full_information(name, age) 
+full_information(name, age, ethnic) 

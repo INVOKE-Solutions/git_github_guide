@@ -3,7 +3,7 @@ def full_information(name, age):
   if age < 12:
     school_info = "I am primary school student"
   elif 12 < age < 17:
-    school_info = "I am primary school student"
+    school_info = "I am a school student"
   else:
     school_info = "I am a woman"
     

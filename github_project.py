@@ -5,7 +5,7 @@ def full_information(name, age):
   elif 12 < age < 17:
     school_info = "I am secondary school student"
   else:
-    school_info = "I am human"
+    school_info = "I am boy""
     
   return full_info + " " + school_info
 # hello I am Sim  

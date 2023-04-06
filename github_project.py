@@ -9,7 +9,9 @@ def full_information(name, age):
     
   return full_info + " " + school_info
     
-name = input("What is your name?") 
+name = input("Tell me what is your name?") 
 age = input("How old are you?") 
 full_information(name, age) 
-print('hello')
+print('test 123')
+
+
